@@ -36,6 +36,10 @@ const controlRecipes = async function () {
   }
 };
 
+const newFeature = () => {
+  console.log('Welcome to the app');
+};
+
 const controlSearchResults = async function () {
   try {
     const query = searchView.getQuery();
@@ -114,6 +118,7 @@ const init = function () {
   paginationView.addHandlerClick(controlPagination);
   searchView.addHandlerSearch(controlSearchResults);
   addRecipeView.addHandlerUploadForm(controlAddRecipe);
+  newFeature();
 };
 init();
 
