@@ -17,12 +17,12 @@
 95C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\sass\types\util\promise_or.d.ts133735681044764046 0
 95C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\caniuse-lite\data\regions\SA.js133735673030617220 0
 102C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@swc\helpers\cjs\_array_with_holes.cjs133735673026362079 0
-56C:\Users\alexp\Desktop\Programming\Forkify-project\.idea133743418280878633 1
+56C:\Users\alexp\Desktop\Programming\Forkify-project\.idea133743921870236597 1
 72C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\mdn-data133735673022845821 1
 109C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\modules\esnext.async-iterator.find.js133740015549186163 0
 99C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\css-tree\lib\generator\sourceMap.js133735673027387784 0
 109C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\caniuse-lite\data\features\permissions-api.js133735673030192065 0
-55C:\Users\alexp\Desktop\Programming\Forkify-project\dist133743537823708670 1
+55C:\Users\alexp\Desktop\Programming\Forkify-project\dist133743996300979781 1
 98C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\es\object\define-setter.js133740015545696314 0
 87C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\ordered-binary\index.js133735673018652121 0
 133C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\index.d.ts.map133735673022032300 0
@@ -164,7 +164,7 @@
 99C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\es\string\is-well-formed.js133740015556920820 0
 92C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\stable\array\with.js133740015567087861 0
 90C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\lightningcss\node\index.js133735673020176050 0
-71C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\controller.js133743530331687471 0
+71C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\controller.js133743976254509067 0
 81C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\svgo\lib\style.js133735673022437932 0
 99C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\css-tree\cjs\syntax\node\Number.cjs133735673025157784 0
 90C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\node-addon-api\common.gypi133735673018421084 0
@@ -218,7 +218,7 @@
 102C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\actual\string\virtual\blink.js133740015544077130 0
 70C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@lezer133735673009786219 1
 92C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\posthtml-parser\changelog.md133735673019238979 0
-67C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\config.js133743162423458221 0
+67C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\config.js133743963248320234 0
 120C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\030-config.md133735673024154006 0
 117C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\caniuse-lite\data\features\css-hanging-punctuation.js133735673026589816 0
 102C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\caniuse-lite\data\features\minmaxwh.js133735673029676098 0
@@ -233,9 +233,9 @@
 85C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\import-fresh\index.js133735673017762090 0
 107C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\modules\esnext.symbol.observable.js133740015550255863 0
 81C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\sass\types\logger133735681044784051 1
-68C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\helpers.js133741675660101176 0
+68C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\helpers.js133743978540859413 0
 88C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\es\array\join.js133740015557458375 0
-77C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\views\recipeView.js133743406985896208 0
+77C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\views\recipeView.js133743984674588350 0
 91C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\graph\src\BitSet.js133735673019934150 0
 85C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\htmlparser2\README.md133735673021056404 0
 93C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\profiler\lib\Trace.js133735673019470041 0
@@ -253,7 +253,7 @@
 91C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\css-select\lib\types.js.map133735673024376890 0
 97C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@swc\helpers\esm\_create_super.js133735673027853774 0
 89C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\domutils\lib\traversal.js133735673019832650 0
-66C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\model.js133743478434943716 0
+66C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\model.js133743991734671932 0
 82C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\parse-json\license133735673017455806 0
 68C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@swc133740891262902111 1
 94C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\htmlparser2\lib\Tokenizer.d.ts133735673021686112 0
@@ -272,7 +272,7 @@
 129C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\index.js133735673023061502 0
 92C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\type-fest\source\opaque.d.ts133735673022342875 0
 113C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\ordered-binary\.nyc_output\processinfo\index.json133735673019944153 0
-80C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\views\addRecipeView.js133743538198786421 0
+80C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\views\addRecipeView.js133743964100849857 0
 109C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\runtime-js\src\helpers\.eslintrc.json133735673023482584 0
 109C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\proposals\array-grouping-stage-3-2.js133740015542661697 0
 119C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\css-select\node_modules\entities\lib\esm\index.d.ts.map133735673023728853 0
@@ -312,7 +312,7 @@
 104C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@swc\helpers\_\_ts_decorate\package.json133735673026031696 0
 102C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\sass\types\logger\source_location.d.ts133735681044774039 0
 99C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\package-manager\src\Pnpm.js133735673022583119 0
-78C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\views\previewView.js133743410724872104 0
+78C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\views\previewView.js133743985049787955 0
 72C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\readdirp133735681043060392 1
 96C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\css-tree\cjs\generator\index.cjs133735673024224740 0
 87C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\svgo\lib\stringifier.js133735673022352868 0
@@ -331,7 +331,7 @@
 96C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\stable\regexp\dot-all.js133740015546300827 0
 117C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\css-select\lib\esm\pseudo-selectors\subselects.js.map133735673024204027 0
 83C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\actual\date133740015565007609 1
-71C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\views\view.js133743472841652070 0
+71C:\Users\alexp\Desktop\Programming\Forkify-project\src\js\views\view.js133743996300735375 0
 112C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\internals\copy-constructor-properties.js133740015545281692 0
 70C:\Users\alexp\Desktop\Programming\Forkify-project\src\img\favicon.png133650057008246199 0
 106C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\css-tree\lib\definition-syntax\generate.js133735673026660084 0
@@ -1400,7 +1400,7 @@
 92C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@swc\helpers\esm\_extends.js133735673027915687 0
 105C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\csso\node_modules\mdn-data\css\types.json133735673022502646 0
 72C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\svgo\bin133735673018147285 1
-73C:\Users\alexp\Desktop\Programming\Forkify-project\dist\index.e37f48ea.js133743537823684776 0
+73C:\Users\alexp\Desktop\Programming\Forkify-project\dist\index.e37f48ea.js133743996300954047 0
 96C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\core\test\Parcel.test.js133735673025550177 0
 81C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\sass\sass.dart.js133735681044232303 0
 109C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\caniuse-lite\data\features\async-clipboard.js133735673023161862 0
@@ -2806,7 +2806,7 @@
 81C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\csso\lib\utils.js133735673025239664 0
 105C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\stable\typed-array\int16-array.js133740015556052432 0
 81C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\lightningcss\node133735673022042304 1
-70C:\Users\alexp\Desktop\Programming\Forkify-project\.idea\workspace.xml133743418280783516 0
+70C:\Users\alexp\Desktop\Programming\Forkify-project\.idea\workspace.xml133743921870236597 0
 106C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\modules\esnext.iterator.dispose.js133740015549346339 0
 95C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\lightningcss\node\index.js.flow133735673019369462 0
 112C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\entities\lib\generated\decode-data-html.d.ts.map133735673021336548 0
@@ -7647,7 +7647,7 @@
 99C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\actual\instance\index-of.js133740015554547748 0
 137C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\dir.js133735673023558499 0
 111C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133735673026755210 0
-74C:\Users\alexp\Desktop\Programming\Forkify-project\dist\icons.dfd7a6db.svg133743533573841437 0
+74C:\Users\alexp\Desktop\Programming\Forkify-project\dist\icons.dfd7a6db.svg133743978722231991 0
 105C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\actual\instance\is-well-formed.js133740015556896579 0
 104C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\actual\array\virtual\iterator.js133740015557212354 0
 95C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\core-js\actual\instance\keys.js133740015557619667 0
@@ -8648,7 +8648,7 @@
 127C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133735673023021493 0
 94C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\workers\src\backend.js133735673018330713 0
 97C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\workers\src\childState.js133735673019852654 0
-87C:\Users\alexp\Desktop\Programming\Forkify-project\.idea\material_theme_project_new.xml133743418280888633 0
+87C:\Users\alexp\Desktop\Programming\Forkify-project\.idea\material_theme_project_new.xml133743921541608300 0
 95C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\workers\src\cpuCount.js133735673021396752 0
 87C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\workers\src\web133735673023503356 1
 93C:\Users\alexp\Desktop\Programming\Forkify-project\node_modules\@parcel\workers\src\Worker.js133735673023603792 0
@@ -9719,10 +9719,10 @@
 77C:\Users\alexp\Desktop\Programming\Forkify-project\dist\index.62406edb.js.map133735681148341627 0
 67C:\Users\alexp\Desktop\Programming\Forkify-project\.idea\.gitignore133743416079243521 0
 87C:\Users\alexp\Desktop\Programming\Forkify-project\.idea\codeStyles\codeStyleConfig.xml133743416044777754 0
-76C:\Users\alexp\Desktop\Programming\Forkify-project\dist\favicon.8b2f57bf.png133743533573524201 0
-73C:\Users\alexp\Desktop\Programming\Forkify-project\dist\logo.726d37a8.png133743533573614527 0
-66C:\Users\alexp\Desktop\Programming\Forkify-project\dist\index.html133743533573760682 0
-74C:\Users\alexp\Desktop\Programming\Forkify-project\dist\icons.21bad73c.svg133743533573760682 0
-74C:\Users\alexp\Desktop\Programming\Forkify-project\dist\index.f7626f62.css133743533573770684 0
-78C:\Users\alexp\Desktop\Programming\Forkify-project\dist\index.f7626f62.css.map133743533573790689 0
-77C:\Users\alexp\Desktop\Programming\Forkify-project\dist\index.e37f48ea.js.map133743537823694781 0
+73C:\Users\alexp\Desktop\Programming\Forkify-project\dist\logo.726d37a8.png133743978721961306 0
+76C:\Users\alexp\Desktop\Programming\Forkify-project\dist\favicon.8b2f57bf.png133743978722161898 0
+74C:\Users\alexp\Desktop\Programming\Forkify-project\dist\icons.21bad73c.svg133743978722196960 0
+66C:\Users\alexp\Desktop\Programming\Forkify-project\dist\index.html133743978722584615 0
+74C:\Users\alexp\Desktop\Programming\Forkify-project\dist\index.f7626f62.css133743978722614752 0
+78C:\Users\alexp\Desktop\Programming\Forkify-project\dist\index.f7626f62.css.map133743978722629784 0
+77C:\Users\alexp\Desktop\Programming\Forkify-project\dist\index.e37f48ea.js.map133743996300969748 0
